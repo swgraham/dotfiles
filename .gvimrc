@@ -3,5 +3,5 @@
 "   let macvim_skip_colorscheme=1
 " to ~/.vimrc.
 "if !exists("macvim_skip_colorscheme") && !exists("colors_name")
-     colorscheme xoria256 
+"     colorscheme xoria256 
 "  endif

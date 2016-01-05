@@ -1,6 +1,4 @@
 export WLP_DEV=~/kWorkspace/concord-small/build.image/wlp
 export WLP=~/Runtimes/wlp
-export RTCOMMJS=~/Projects/lib.rtcomm.clientjs
 
 alias lrt="cd $LIBERTY"
-alias rd="cd $RTCOMMJS"
