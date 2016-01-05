@@ -1,0 +1,11 @@
+{
+  "expr" : true,
+  "browser" : true,
+  "dojo" : true,
+  "devel": true,
+  "curly": true,
+  "eqeqeq": true,
+  "undef": true,
+  "forin": true,
+  "noempty": true
+}

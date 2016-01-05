@@ -1,9 +1,7 @@
-" Use the Solarized Dark theme
-set background=dark
-colorscheme solarized
-" Use 14pt Monaco
-set guifont=Monaco:h14
-" Don’t blink cursor in normal mode
-set guicursor=n:blinkon0
-" Better line-height
-set linespace=8
+" Load the MacVim color scheme.  This can be disabled by loading another color
+" scheme with the :colorscheme command, or by adding the line
+"   let macvim_skip_colorscheme=1
+" to ~/.vimrc.
+"if !exists("macvim_skip_colorscheme") && !exists("colors_name")
+     colorscheme xoria256 
+"  endif
